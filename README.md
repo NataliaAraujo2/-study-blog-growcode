@@ -4,8 +4,8 @@
 
 # Blog project to study React and Javascript with Professor Ravazzi.
 
-## Run 
+#### Run 
 `npm install`
 
-## And then
+#### And then
 `npm run start`
