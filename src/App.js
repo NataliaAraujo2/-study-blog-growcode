@@ -22,17 +22,17 @@ function App() {
             </div>
             <div className='post-body'>
               <p className='post-title'>
-                Missing the Currents!
+                I miss the stream!
               </p>
               <p className='post-preview'>
-                For those who know a little about my life, you know that I love being in contact with water!
+                For those of you who know a little about my life, you know that I love being in contact with water!
                 Of course bathing is good!
                 But nothing compares to bathing in the sea or waterfalls, which I prefer!
-                One of my extreme water sports is rafting. The objective of this sport is to avoid natural obstacles, paddling on top of a boat to the final destination.
-                I've seen people despair when the boat capsizes. I've seen people unlearning to swim with the aggressive currents.
+                One of my favorite extreme water sports is rafting. The goal of this sport is to avoid natural obstacles by paddling in a boat to the final destination.
+                I've seen people in despair when the boat turns. I've seen people not learning to swim with the aggressive currents.
                 But for me, water heals! It has tranquilizing and antidepressant properties! It works better than any luoxetine, citalopram, paroxetine, sertraline, fluvoxamine and escitalopram.
-                With the pandemic and the necessary social isolation, I tried to use the tap here at home and rainwater, using the company of my 5-year-old niece to not look too crazy, to benefit from the properties of water! But nothing compares to the adrenaline that rafting provides or the contact with nature in its wildest state to take away any worries or sadness from the soul!
-                Greetings from the Current!
+                With the pandemic and the necessary social isolation, I tried using the water spout and rainwater, using the company of my 5-year-old niece so as not to seem too crazy, to benefit from the properties of water! But nothing compares to the adrenaline rush that rafting provides or the contact with nature in its wildest state to take away any worry or sadness from the soul!
+                Longing for the current stream!
               </p>
             </div>
           </div>
