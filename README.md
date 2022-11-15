@@ -1,6 +1,4 @@
-<h1 align="center"> 
-    <font color = "blue"> STUDY BLOG GROWCODE
-    </font>
+<h1 style="color:blue"> STUDY BLOG GROWCODE
 </h1>
 
 <p align="center">
