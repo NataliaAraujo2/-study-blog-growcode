@@ -3,14 +3,15 @@ import './styles.css';
 
 function App() {
   return (
-    <div>
+    <div className='main-container'>
       <header>
         <h1>BLOG LUNA</h1>
         <button>New Post</button>
         <button>Dark Mode</button>
       </header>
       <main>
-        <section className="post-card" >
+        {[...Array(100)].map((item) => (
+          <section className="post-card" >
           <div className='post-preview-content'>
             <div className='post-author'>
               <img
@@ -44,6 +45,7 @@ function App() {
             />
           </div>
         </section>
+        ))}
       </main>
     </div>
   )

@@ -1,3 +1,9 @@
+:root {
+  --button-primary: #c8a2c8;
+  --text-primary: #000;
+  --main-background: #fff;
+}
+
 * {
   margin: 0;
 }
@@ -9,11 +15,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main-background);
+}
+
+.main-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-container header {
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.main-container header button {
+border-radius: 50px;
+border: none;
+padding: 0 15px;
+color: #fff;
+font-weight: bolder;
+background-color: var(--button-primary);
 }
 
 .post-card{
+  width: 500px;
   display: flex;
-  margin-top: 30px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.post-preview-content {
+  padding-right: 20px;
 }
 
 
@@ -28,6 +63,9 @@ body {
 
 .post-body p {
   width: 380px;
+}
+
+.post-body p:nth-child(2) {
   /* não quebra o texto, deixando em uma única linha */
   white-space: nowrap;
   /* não permite que "dê scroll" */
